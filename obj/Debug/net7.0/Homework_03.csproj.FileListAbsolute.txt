@@ -1,0 +1,15 @@
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\obj\Debug\net7.0\Homework_03.csproj.AssemblyReference.cache
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\obj\Debug\net7.0\Homework_03.GeneratedMSBuildEditorConfig.editorconfig
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\obj\Debug\net7.0\Homework_03.AssemblyInfoInputs.cache
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\obj\Debug\net7.0\Homework_03.AssemblyInfo.cs
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\obj\Debug\net7.0\Homework_03.csproj.CoreCompileInputs.cache
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\bin\Debug\net7.0\Homework_03.exe
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\bin\Debug\net7.0\Homework_03.deps.json
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\bin\Debug\net7.0\Homework_03.runtimeconfig.json
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\bin\Debug\net7.0\Homework_03.dll
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\bin\Debug\net7.0\Homework_03.pdb
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\obj\Debug\net7.0\Homework_03.dll
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\obj\Debug\net7.0\refint\Homework_03.dll
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\obj\Debug\net7.0\Homework_03.pdb
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\obj\Debug\net7.0\Homework_03.genruntimeconfig.cache
+F:\GEEKBRAINS\Control_Version\C#\Lesson_01\Homework_03\obj\Debug\net7.0\ref\Homework_03.dll
